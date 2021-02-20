@@ -1,0 +1,2 @@
+ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
+1	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LNY8P5L	-1001196888144
